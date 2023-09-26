@@ -1,5 +1,5 @@
 # Echo-Server
-Practical for C++
+Practical for Webserver
 <br><br><br><br>
 **Run**<br>
 1.<br>
